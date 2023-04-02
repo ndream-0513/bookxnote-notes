@@ -1,4 +1,7 @@
 {
+    "LineCurve": {
+        "Color": "ffff0000"
+    },
     "ShowMode": 0,
     "VerticalPattern": true
 }
