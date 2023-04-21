@@ -1,7 +1,13 @@
 {
     "LineCurve": {
+        "Color": "ff000000"
+    },
+    "Rectangle": {
         "Color": "ffff0000"
     },
     "ShowMode": 0,
+    "TextFrame": {
+        "Color": "ffa0ec6e"
+    },
     "VerticalPattern": true
 }
